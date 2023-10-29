@@ -1,14 +1,7 @@
  <h1 align="center">
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=40&pause=1000&color=F7F7F7&width=600&height=60&lines=Hello,+I'm+@Markgian+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <rect x="4" y="6" width="4" height="4" fill="yellow" />
-  <rect x="20" y="6" width="4" height="4" fill="yellow" />
-  <circle cx="16" cy="16" r="12" fill="yellow" />
-  <circle cx="12" cy="12" r="2" fill="black" />
-  <circle cx="20" cy="12" r="2" fill="black" />
-  <path d="M10 20 Q16 24, 22 20" fill="black" stroke="black" stroke-width="2" />
-</svg>
-)]()
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=40&pause=1000&color=F7F7F7&width=600&height=60&lines=Hello,+I'm+@Markgian+👾)]()
+
 </h1>
 
 <div align="center">
