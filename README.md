@@ -1,7 +1,6 @@
  <h1 align="center">
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=40&pause=1000&color=F7F7F7&width=600&height=60&lines=Hello,+I'm+@Markgian)](https://git.io/typing-svg)
-
 </h1>
 
 <div align="center">
@@ -32,7 +31,8 @@
 
 ###
 <details>
-  <summary>:rocket: Click to see more Information...</summary>
+<summary>:rocket: Click to see more Information...</summary>
+
 <p align="left">I am excited to begin my journey as a Bachelor of Science in Information Systems Student. I have always  been interested in the world of programming. I have strengths in Web Development, currently working with HTML, and CSS, and learning JavaScript for responsiveness. Additionally, I'm currently  learning to advance my programming skills in Java and Python. I am also in Graphic Design, using Figma, and Adobe tools like Photoshop. My key attributes include Time Management, Adaptability, Problem Solving, and Collaborative abilities. </p>
 </details>
 
