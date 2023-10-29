@@ -1,6 +1,6 @@
 
 <link rel="stylesheet" href="path-to-animate.min.css">
-<h1 align="left" class="animate__animated animate__slideInLeft">Hello, I’m @Markgian06</h1><style>
+<h1 align="left" class="animate__animated animate__slideInLeft">Hello, I’m @Markgian06</h1>
 
 
 
