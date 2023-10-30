@@ -54,7 +54,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <h4>For Front-End</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
   <img width="12" />
