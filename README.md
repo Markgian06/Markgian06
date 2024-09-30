@@ -14,7 +14,7 @@ I am a Bachelor of Science in Information Systems student with a passion for pro
 
 ### About Me
 
-- 🎮 Avid gamer on mobile and PC platforms.
+- 🎮 I enjoy playing on mobile and PC platforms.
 - 📚 Currently expanding my skills in C++.
 - 🎯 **Motivation:** I believe every experience is an opportunity for growth and learning.
 
