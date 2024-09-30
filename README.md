@@ -32,9 +32,6 @@ I am excited to begin my journey as a Bachelor of Science in Information Systems
 - Python
 - C++
 
-**Design:**
-- 
-- 
 
 ---
 
