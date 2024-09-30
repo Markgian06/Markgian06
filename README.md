@@ -4,54 +4,55 @@
 
 ###
 
+---
+
 ### 🚀 Welcome to My GitHub Profile!
 
-I am excited to begin my journey as a Bachelor of Science in Information Systems Student. My passion for programming drives me to explore new technologies and build amazing projects.
+I am a Bachelor of Science in Information Systems student with a passion for programming and a drive to explore innovative technologies. My goal is to build impactful projects that contribute to the tech community.
 
 ---
 
 ### About Me
 
-- 🎮 I enjoy playing mobile and PC games.
-- 📚 Currently learning C++.
-- 🎯 *.Motivation: Everything that happens in your life; it's all an experience.
+- 🎮 Avid gamer on mobile and PC platforms.
+- 📚 Currently expanding my skills in C++.
+- 🎯 **Motivation:** I believe every experience is an opportunity for growth and learning.
 
 ---
 
 ### My Skills
 
-#### 🔧 I Code With:
+#### 🔧 Technologies I Work With:
 
-**Front-End:**
+**Front-End Development:**
 - HTML
 - CSS
 - JavaScript
 
-**Back-End:**
+**Back-End Development:**
 - Java
 - Python
 - C++
-
 
 ---
 
 ### 📈 Let's Connect!
 
-Feel free to reach out to me if you’d like to collaborate or just chat about programming!
+I welcome collaboration opportunities and discussions about programming, technology, and gaming. Don’t hesitate to reach out!
 
 ---
 
 ### 📫 Contact Me
 
-- Email: [Email Account](mailto:abejero.markgian@dfcamclp.edu.ph)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mark-gian-abejero-a69777298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: [abejero.markgian@dfcamclp.edu.ph](mailto:abejero.markgian@dfcamclp.edu.ph)
+- LinkedIn: [Mark Gian Abejero](https://www.linkedin.com/in/mark-gian-abejero-a69777298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
 ### 🌟 Projects
 
-- **Project 1**: [Project none]()
-- **Project 2**: [Project none]()
+- **Project 1**: [Project Title TBD](#)
+- **Project 2**: [Project Title TBD](#)
 
 ---
 
@@ -61,4 +62,4 @@ Feel free to reach out to me if you’d like to collaborate or just chat about p
 
 ---
 
-
+Thank you for visiting my profile! Feel free to explore my repositories and projects.
