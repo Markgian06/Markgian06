@@ -46,15 +46,15 @@ Feel free to reach out to me if you’d like to collaborate or just chat about p
 
 ### 📫 Contact Me
 
-- Email: [Email] (abejero.markgian@dfcamclp.edu.ph)
+- Email: [abejero.markgian@dfcamclp.edu.ph] (abejero.markgian@dfcamclp.edu.ph)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mark-gian-abejero-a69777298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
 ### 🌟 Projects
 
-- **Project 1**: [Project Title](link-to-your-project)
-- **Project 2**: [Project Title](link-to-your-project)
+- **Project 1**: [Project none]()
+- **Project 2**: [Project none]()
 
 ---
 
@@ -64,4 +64,4 @@ Feel free to reach out to me if you’d like to collaborate or just chat about p
 
 ---
 
-Feel free to explore my repositories and check out my latest projects!
+
