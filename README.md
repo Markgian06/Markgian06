@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #00ff00; font-family: 'Courier New', monospace;">
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=40&pause=1000&color=F7F7F7&width=600&height=60&lines=Hello,+I'm+@Markgian06+👾)]() </h1>
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=40&pause=1000&color=F7F7F7&width=600&height=60&lines=Hello,+I'm+@Markgian06+👾)]() </h1>
 
 ###
 
