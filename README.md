@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">🎮 playing mobile and pc games...<br>📚 I'm currently learning C++<br>Fun fact: everything that happens in your life; it's all an experience</p>
+<p align="left">🎮 playing mobile and pc games...<br>📚 I'm currently learning C++<br>🎯 Motivation: everything that happens in your life; it's all an experience</p>
 
 ###
 
