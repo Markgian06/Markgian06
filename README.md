@@ -34,7 +34,7 @@ I am a Bachelor of Science in Information Systems student with a passion for pro
 - Python
 - C++
 
-**Datebase Development:**
+**Database Development:**
 - MySQL 
 
 
