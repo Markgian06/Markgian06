@@ -37,7 +37,7 @@
 <details>
 <summary>:rocket: Click to see more information...</summary>
 <br>
-<p align="justify">I am excited to begin my journey as a Bachelor of Science in Information Systems Student. I have always  been interested in the world of programming. I have strengths in Web Development, currently working with HTML, and CSS, and learning JavaScript for responsiveness. Additionally, I'm currently  learning to advance my programming skills in Java and Python. I am also in Graphic Design, using Figma, and Adobe tools like Photoshop. My key attributes include Time Management, Adaptability, Problem Solving, and Collaborative abilities. </p>
+<p align="justify">I am excited to begin my journey as a Bachelor of Science in Information Systems Student. I have always  been interested in the world of programming. </p>
 </details>
 
 ###
