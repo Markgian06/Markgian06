@@ -14,7 +14,7 @@ I am excited to begin my journey as a Bachelor of Science in Information Systems
 
 - 🎮 I enjoy playing mobile and PC games.
 - 📚 Currently learning C++.
-- 🎯 **Motivation:** Everything that happens in your life; it's all an experience.
+- 🎯 *.Motivation: Everything that happens in your life; it's all an experience.
 
 ---
 
@@ -46,8 +46,8 @@ Feel free to reach out to me if you’d like to collaborate or just chat about p
 
 ### 📫 Contact Me
 
-- Email: [abejero.markgian@dfcamclp.edu.ph]
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mark-gian-abejero-a69777298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: [Email] (abejero.markgian@dfcamclp.edu.ph)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mark-gian-abejero-a69777298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
