@@ -72,8 +72,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
   
   <h4>For Design</h4>
  
+
 ###
 
 
+ 🔗 GitHub Stats
 
-Style this code this use for GitHub 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Markgian06&show_icons=true&theme=radical)
+
+
+
