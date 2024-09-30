@@ -69,4 +69,3 @@ I welcome collaboration opportunities and discussions about programming, technol
 Thank you for visiting my profile! Feel free to explore my repositories and projects.
 
 
-More professional design 
