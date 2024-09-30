@@ -4,81 +4,64 @@
 
 ###
 
-<div align="center">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+### 🚀 Welcome to My GitHub Profile!
 
-###
-</div>
+I am excited to begin my journey as a Bachelor of Science in Information Systems Student. My passion for programming drives me to explore new technologies and build amazing projects.
 
-###
+---
 
-<details>
-<summary>:rocket: Click to see more information...</summary>
-<br>
-<p align="justify">I am excited to begin my journey as a Bachelor of Science in Information Systems Student. I have always  been interested in the world of programming. </p>
-</details>
+### About Me
 
-###
+- 🎮 I enjoy playing mobile and PC games.
+- 📚 Currently learning C++.
+- 🎯 **Motivation:** Everything that happens in your life; it's all an experience.
 
-<h2 align="left">About me</h2>
+---
 
-###
+### My Skills
 
-<p align="left">🎮 I enjoy playing mobile and pc games...<br>📚 I'm currently learning C++<br>🎯 Motivation: Everything that happens in your life; it's all an experience</p>
+#### 🔧 I Code With:
 
-###
+**Front-End:**
+- HTML
+- CSS
+- JavaScript
 
-<h2 align="left">I code with</h2>
+**Back-End:**
+- Java
+- Python
+- C++
 
-###
+**Design:**
+- 
+- 
 
-<div align="left">
-  <h4>For Front-End</h4>
-  <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  
-  <h4>For Back-End</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  
-  <h4>For Design</h4>
- 
+---
 
-###
+### 📈 Let's Connect!
 
+Feel free to reach out to me if you’d like to collaborate or just chat about programming!
 
- 🔗 GitHub Stats
+---
+
+### 📫 Contact Me
+
+- Email: [abejero.markgian@dfcamclp.edu.ph]
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+
+---
+
+### 🌟 Projects
+
+- **Project 1**: [Project Title](link-to-your-project)
+- **Project 2**: [Project Title](link-to-your-project)
+
+---
+
+### 🔗 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Markgian06&show_icons=true&theme=radical)
 
+---
 
-
+Feel free to explore my repositories and check out my latest projects!
