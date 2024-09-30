@@ -28,49 +28,35 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
-
-###
 </div>
-
-###
 
 <details>
 <summary>:rocket: Click to see more information...</summary>
 <br>
-<p align="justify">I am excited to begin my journey as a Bachelor of Science in Information Systems Student. I have always  been interested in the world of programming. </p>
+<p align="justify">
+    I am excited to begin my journey as a Bachelor of Science in Information Systems student. I have always been interested in the world of programming.
+</p>
 </details>
 
-###
+<h2 align="left">About Me</h2>
+<p align="left">
+    🎮 I enjoy playing mobile and PC games...<br>
+    📚 Currently learning C++<br>
+    🎯 Motivation: Everything that happens in your life; it's all an experience
+</p>
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🎮 playing mobile and pc games...<br>📚 I'm currently learning C++<br>🎯 Motivation: Everything that happens in your life; it's all an experience</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
+<h2 align="left">I Code With</h2>
 <div align="left">
   <h4>For Front-End</h4>
-  <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
   
   <h4>For Back-End</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
   
   <h4>For Design</h4>
- </div>
-
+  <!-- Add design-related icons here if needed -->
+</div>
 
