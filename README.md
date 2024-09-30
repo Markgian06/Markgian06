@@ -1,6 +1,6 @@
-<h1 align="center" style="color: #00ff00; font-family: 'Courier New', monospace;">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&weight=700&size=40&pause=1000&color=00FF00&width=600&height=60&lines=Hello,+I'm+@Markgian06+👾)]()
-</h1>
+<h1 align="center">
+
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=40&pause=1000&color=F7F7F7&width=600&height=60&lines=Hello,+I'm+@Markgian06+👾)]() </h1>
 
 ###
 
@@ -28,34 +28,52 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+
+###
 </div>
 
-<details style="background-color: #1e1e1e; border: 1px solid #00ff00; border-radius: 5px; padding: 10px;">
-<summary style="color: #00ff00;">:rocket: Click to see more information...</summary>
+###
+
+<details>
+<summary>:rocket: Click to see more information...</summary>
 <br>
-<p align="justify" style="color: #ffffff;">
-    I am excited to begin my journey as a Bachelor of Science in Information Systems student. I have always been interested in the world of programming.
-</p>
+<p align="justify">I am excited to begin my journey as a Bachelor of Science in Information Systems Student. I have always  been interested in the world of programming. </p>
 </details>
 
-<h2 align="left" style="color: #00ff00;">About Me</h2>
-<p align="left" style="color: #ffffff;">
-    🎮 I enjoy playing mobile and PC games...<br>
-    📚 Currently learning C++<br>
-    🎯 Motivation: Everything that happens in your life; it's all an experience
-</p>
+###
 
-<h2 align="left" style="color: #00ff00;">I Code With</h2>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🎮 playing mobile and pc games...<br>📚 I'm currently learning C++<br>🎯 Motivation: Everything that happens in your life; it's all an experience</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
 <div align="left">
-  <h4 style="color: #00ff00;">For Front-End</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
+  <h4>For Front-End</h4>
+  <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="12" />
   
-  <h4 style="color: #00ff00;">For Back-End</h4>
+  <h4>For Back-End</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
   
-  <h4 style="color: #00ff00;">For Design</h4>
-  <!-- Add design-related icons here if needed -->
-</div>
+  <h4>For Design</h4>
+ 
+###
+
+
+
+Style this code this use for GitHub 
