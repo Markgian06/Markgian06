@@ -46,7 +46,7 @@ Feel free to reach out to me if you’d like to collaborate or just chat about p
 
 ### 📫 Contact Me
 
-- Email: [email](abejero.markgian@dfcamclp.edu.ph)
+- Email: [Email Account](mailto:abejero.markgian@dfcamclp.edu.ph)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mark-gian-abejero-a69777298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
