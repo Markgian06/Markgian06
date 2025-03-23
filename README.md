@@ -37,6 +37,7 @@ I am a Bachelor of Science in Information Systems student with a passion for pro
 
 **Database Development:**
 - MySQL 
+- Firebase 
 
 
 ---
@@ -56,7 +57,7 @@ I welcome collaboration opportunities and discussions about programming, technol
 
 ### 🌟 Projects
 
-- **Project 1**: [Project Title TBD](#)
+- **Project 1**: [Timeless Brew TBD](#)
 - **Project 2**: [Project Title TBD](#)
 
 ---
