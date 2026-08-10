@@ -1,7 +1,10 @@
 <div align="center">
+
   <a href="https://github.com/Markgian06">
-    <img src="https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=36&pause=1000&color=F7F7F7&center=true&vcenter=true&width=600&height=60&lines=Hello,+I'm+Mark+Gian!+👾;BSIS+Student+%7C+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7F7F7&center=true&vcenter=true&width=500&height=50&lines=Hello%2C+I'm+Mark+Gian!+%F0%9F%91%BE;BSIS+Student+%7C+Developer" alt="Typing SVG" />
   </a>
+
+  <br />
 
   <p align="center">
     <a href="mailto:abejero.markgian@dfcamclp.edu.ph">
@@ -11,6 +14,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
+
 </div>
 
 ---
@@ -54,10 +58,11 @@ I am a **Bachelor of Science in Information Systems** student passionate about s
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Markgian06&show_icons=true&theme=radical&hide_border=true" alt="Markgian's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markgian06&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-</div>
+<p align="center">
+  <a href="https://github.com/Markgian06">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Markgian06&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
