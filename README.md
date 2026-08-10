@@ -88,11 +88,11 @@ I write clean code and design simple, easy-to-use interfaces.
 
 **🎓 School Focus**
 
-| | |
-|:---|:---|
-| **Degree** | BS in Information Systems |
-| **Main Subjects** | Systems Analysis, Database Mgmt, Web Dev |
-| **Goal** | Become a skilled Data Analyst |
+<table style="margin:auto;">
+<tr><td style="text-align:center;"><b>Degree</b></td><td style="text-align:center;">BS in Information Systems</td></tr>
+<tr><td style="text-align:center;"><b>Main Subjects</b></td><td style="text-align:center;">Systems Analysis, Database Mgmt, Web Dev</td></tr>
+<tr><td style="text-align:center;"><b>Goal</b></td><td style="text-align:center;">Become a skilled Data Analyst</td></tr>
+</table>
 
 </div>
 
@@ -103,12 +103,12 @@ I write clean code and design simple, easy-to-use interfaces.
 
 **⚙️ My Setup**
 
-| | |
-|:---|:---|
-| **Editor** | Visual Studio Code |
-| **Version Control** | Git & GitHub |
-| **Deploy** | Vercel |
-| **OS** | Windows 11 |
+<table style="margin:auto;">
+<tr><td style="text-align:center;"><b>Editor</b></td><td style="text-align:center;">Visual Studio Code</td></tr>
+<tr><td style="text-align:center;"><b>Version Control</b></td><td style="text-align:center;">Git & GitHub</td></tr>
+<tr><td style="text-align:center;"><b>Deploy</b></td><td style="text-align:center;">Vercel</td></tr>
+<tr><td style="text-align:center;"><b>OS</b></td><td style="text-align:center;">Windows 11</td></tr>
+</table>
 
 </div>
 
