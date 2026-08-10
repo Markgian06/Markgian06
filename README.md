@@ -10,7 +10,7 @@
   </p>
 
   <!-- Typing Animation -->
-  <a href="https://github.com/Markgian06">
+  <a href="https://ggyaaaan.vercel.app">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&height=50&lines=Information+Systems+Student;Web+%26+Software+Developer;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
   </a>
 
@@ -24,8 +24,8 @@
     <a href="https://www.linkedin.com/in/mark-gian-abejero-a69777298">
       <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/Markgian06/PORTFOLIO">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=38BDF8" alt="Portfolio" />
+    <a href="https://ggyaaaan.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=react&logoColor=38BDF8" alt="Live Portfolio" />
     </a>
   </p>
 
@@ -58,7 +58,7 @@
   <ul>
     <li><b>Degree Program:</b> Bachelor of Science in Information Systems</li>
     <li><b>Core Subjects:</b> Systems Analysis, Database Management, Web Development</li>
-    <li><b>Goal:</b> To build functional, efficient, and user-friendly software solutions.</li>
+    <li><b>Goal:</b> Building functional, efficient, and user-friendly software solutions.</li>
   </ul>
 </details>
 
@@ -77,7 +77,7 @@
   <summary><b>🎯 Development Goals</b></summary>
   <br />
   <ul>
-    <li>[x] Build and deploy personal developer portfolio website using React</li>
+    <li>[x] Build and deploy personal developer portfolio website</li>
     <li>[ ] Improve object-oriented programming concepts in C++ and Java</li>
     <li>[ ] Build full-stack web applications connected to databases</li>
   </ul>
@@ -88,8 +88,6 @@
 ## 🛠️ Technologies & Skills
 
 <div align="center">
-  <p><i>Hover over any icon to view technology name:</i></p>
-  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,py,cpp,mysql,firebase,git,vscode,vercel&perline=7" alt="Skill Icons" />
   </a>
@@ -115,10 +113,10 @@
 
 ## 📂 Featured Projects
 
-| Project | Description | Technologies | Link |
+| Project | Description | Technologies | Links |
 | :--- | :--- | :--- | :--- |
-| **Personal Portfolio** | Responsive developer website | React, Vite, Tailwind CSS | [Repository](https://github.com/Markgian06/PORTFOLIO) |
-| **Timeless Brew** | Coffee shop web interface | HTML, CSS, JavaScript | [Repository](#) |
+| **Personal Portfolio** | Responsive developer portfolio website | React, Vite, Tailwind CSS | [Live Website](https://ggyaaaan.vercel.app) \| [GitHub Repo](https://github.com/Markgian06/PORTFOLIO) |
+| **Timeless Brew** | Coffee shop web interface | HTML, CSS, JavaScript | Web Application |
 
 ---
 
