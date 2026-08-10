@@ -1,3 +1,7 @@
+<table width="100%" bgcolor="#000000" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#000000" align="center">
+
 <div align="center">
 
 <!-- Header Banner -->
@@ -9,7 +13,7 @@
 </p>
 
 <a href="https://ggyaaaan.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&background=00000000&center=true&vcenter=true&width=650&height=50&lines=Information+Systems+Student;Web+%26+Software+Developer;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&vcenter=true&width=500&height=45&lines=Information+Systems+Student;Web+%26+Software+Developer;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </a>
 
 <br />
@@ -212,3 +216,9 @@ A coffee shop web page. Clean and simple design.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0369a1,100:0f172a&height=120&section=footer&text=Thank%20you%20for%20visiting!&fontSize=20&fontColor=FFFFFF" width="100%" alt="Footer Wave" />
 
 </div>
+
+
+
+</td>
+</tr>
+</table>
