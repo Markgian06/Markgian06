@@ -172,8 +172,8 @@ I write clean code and design simple, easy-to-use interfaces.
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Markgian06&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff&border_color=0369a1" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markgian06&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&border_color=0369a1" width="49%" alt="Top Languages" />
+<img src="https://img.shields.io/github/stars/Markgian06?style=for-the-badge&color=0369a1&labelColor=0f172a" alt="Stars" />
+<img src="https://img.shields.io/github/repo-size/Markgian06/Markgian06?style=for-the-badge&color=0369a1&labelColor=0f172a" alt="Repo Size" />
 
 <br><br>
 
