@@ -10,7 +10,7 @@
 </p>
 
 <a href="https://ggyaaaan.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&vCenter=true&width=600&height=50&lines=Information+Systems+Student;Web+%26+Software+Developer;I+Build+Clean+Working+Apps;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1000&color=38BDF8&vCenter=true&width=750&height=50&lines=Information+Systems+Student;Web+%26+Software+Developer;Aspiring+Data+Analyst;I+Build+Clean+Working+Apps;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -51,7 +51,7 @@ I am a Bachelor of Science in Information Systems student. I focus on web develo
 
 ### 🎯 My Goal
 
-I want to build scalable software, improve database design, and use good system design to solve real problems.
+I want to grow into a **Data Analyst**. My dream is to turn raw data into clear insights — using strong database design, SQL, and analytics tools to help others make better decisions.
 
 </td>
 </tr>
@@ -92,7 +92,7 @@ I write clean code and design simple, easy-to-use interfaces.
 |:---|:---|
 | **Degree** | BS in Information Systems |
 | **Main Subjects** | Systems Analysis, Database Mgmt, Web Dev |
-| **Goal** | Build useful, easy-to-use software |
+| **Goal** | Become a skilled Data Analyst |
 
 </div>
 
@@ -127,6 +127,7 @@ I write clean code and design simple, easy-to-use interfaces.
 <img src="https://img.shields.io/badge/✅_Built_%26_deployed_portfolio_site-0369a1?style=for-the-badge&labelColor=0f172a" alt="Done" />
 <img src="https://img.shields.io/badge/🔄_Improving_OOP_in_C%2B%2B_%26_Java-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Now" />
 <img src="https://img.shields.io/badge/⏭️_Full--stack_apps_with_a_real_DB-334155?style=for-the-badge&labelColor=0f172a" alt="Next" />
+<img src="https://img.shields.io/badge/🎯_Become_a_Data_Analyst-16a34a?style=for-the-badge&labelColor=0f172a" alt="Dream" />
 
 </div>
 
@@ -157,6 +158,18 @@ I write clean code and design simple, easy-to-use interfaces.
 <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/GOING_FOR_DATA_ANALYTICS-16a34a?style=for-the-badge&labelColor=0f172a" alt="Data Analytics Path" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/Excel-0f172a?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
+<img src="https://img.shields.io/badge/Power_BI-0f172a?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/Tableau-0f172a?style=for-the-badge&logo=tableau&logoColor=E97627" />
 
 </div>
 
