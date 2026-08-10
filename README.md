@@ -166,10 +166,6 @@ I write clean code and design simple, easy-to-use interfaces.
 </div>
 <br>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top" style="text-align:center;">
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/PERSONAL_PORTFOLIO-0f172a?style=flat-square&logo=react&logoColor=white&color=0f172a" alt="Personal Portfolio" />
@@ -187,8 +183,11 @@ Shows my work and skills.
 
 </div>
 
-</td>
-<td width="50%" valign="top" style="text-align:center;">
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0369a1,100:38bdf8&height=1&width=100%" width="100%" alt="divider" />
+
+<br>
 
 <div align="center">
 
@@ -204,10 +203,6 @@ Clean and simple design.
 ![Completed](https://img.shields.io/badge/Completed-0369a1?style=flat-square&labelColor=0f172a&color=38bdf8)
 
 </div>
-
-</td>
-</tr>
-</table>
 
 <br>
 
