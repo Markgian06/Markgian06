@@ -26,8 +26,8 @@
   </a>
 </p>
 
-<img src="assets/dots-divider.svg" width="100%" alt="dots" />
-<img src="assets/dots-banner.svg" width="100%" alt="dots banner" />
+<img src="dots-divider.svg" width="100%" alt="dots" />
+<img src="dots-banner.svg" width="100%" alt="dots banner" />
 
 </div>
 
@@ -68,7 +68,7 @@ I know **HTML, CSS, JavaScript, React, Tailwind CSS, Java, C++, and MySQL**. I w
 </details>
 
 <div align="center">
-<img src="assets/dots-divider.svg" width="100%" alt="dots" />
+<img src="dots-divider.svg" width="100%" alt="dots" />
 </div>
 
 <div align="center">
@@ -112,7 +112,7 @@ I know **HTML, CSS, JavaScript, React, Tailwind CSS, Java, C++, and MySQL**. I w
 </details>
 
 <div align="center">
-<img src="assets/dots-divider.svg" width="100%" alt="dots" />
+<img src="dots-divider.svg" width="100%" alt="dots" />
 </div>
 
 <div align="center">
@@ -126,7 +126,7 @@ I know **HTML, CSS, JavaScript, React, Tailwind CSS, Java, C++, and MySQL**. I w
 </div>
 
 <div align="center">
-<img src="assets/dots-divider.svg" width="100%" alt="dots" />
+<img src="dots-divider.svg" width="100%" alt="dots" />
 </div>
 
 <div align="center">
@@ -149,7 +149,7 @@ I know **HTML, CSS, JavaScript, React, Tailwind CSS, Java, C++, and MySQL**. I w
 </div>
 
 <div align="center">
-<img src="assets/dots-divider.svg" width="100%" alt="dots" />
+<img src="dots-divider.svg" width="100%" alt="dots" />
 </div>
 
 <div align="center">
@@ -191,7 +191,7 @@ A coffee shop web page. Clean and simple design.
 </table>
 
 <div align="center">
-<img src="assets/dots-divider.svg" width="100%" alt="dots" />
+<img src="dots-divider.svg" width="100%" alt="dots" />
 </div>
 
 <div align="center">
@@ -209,7 +209,7 @@ A coffee shop web page. Clean and simple design.
 
 <br><br>
 
-<img src="assets/dots-divider.svg" width="100%" alt="dots" />
+<img src="dots-divider.svg" width="100%" alt="dots" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0369a1,100:0f172a&height=120&section=footer&text=Thank%20you%20for%20visiting!&fontSize=20&fontColor=FFFFFF" width="100%" alt="Footer Wave" />
 
