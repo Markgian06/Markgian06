@@ -1,7 +1,3 @@
-<table width="100%" bgcolor="#000000" cellpadding="0" cellspacing="0" border="0">
-<tr>
-<td bgcolor="#000000" align="center">
-
 <div align="center">
 
 <!-- Header Banner -->
@@ -139,16 +135,14 @@ I know **HTML, CSS, JavaScript, React, Tailwind CSS, Java, C++, and MySQL**. I w
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Markgian06&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff&hide_border=false&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markgian06&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff&hide_border=false" width="49%" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=Markgian06&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff&hide_border=false&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Markgian06&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff&hide_border=false" width="49%" alt="Top Languages" />
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com/?user=Markgian06&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" width="100%" />
 
 <br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Markgian06&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" alt="Trophies" width="100%" />
 
 </div>
 
@@ -200,7 +194,7 @@ A coffee shop web page. Clean and simple design.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LET'S_CONNECT-000000?style=for-the-badge&logo=wechat&logoColor=white&color=000000" alt="Let's Connect" />
+<img src="https://img.shields.io/badge/LET%27S_CONNECT-000000?style=for-the-badge&logo=wechat&logoColor=white&color=000000" alt="Let's Connect" />
 
 <br><br>
 
@@ -218,8 +212,3 @@ A coffee shop web page. Clean and simple design.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0369a1,100:0f172a&height=120&section=footer&text=Thank%20you%20for%20visiting!&fontSize=20&fontColor=FFFFFF" width="100%" alt="Footer Wave" />
 
 </div>
-
-
-</td>
-</tr>
-</table>
