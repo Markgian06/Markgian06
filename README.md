@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=MARK%20GIAN%20ABEJERO&fontSize=38&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:38bdf8&height=180&section=header&text=MARK%20GIAN%20ABEJERO&fontSize=38&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" width="100%" alt="Header Banner" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Markgian06&color=000000&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000" alt="Profile Views" />
@@ -26,7 +26,8 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="assets/dots-divider.svg" width="100%" alt="dots" />
+<img src="assets/dots-banner.svg" width="100%" alt="dots banner" />
 
 </div>
 
@@ -59,7 +60,7 @@ I want to build scalable software, improve database design, and use good system 
 </table>
 
 <details open>
-<summary><b>💻 My Tech Background</b></summary>
+<summary><b>My Tech Background</b></summary>
 <br>
 
 I know **HTML, CSS, JavaScript, React, Tailwind CSS, Java, C++, and MySQL**. I write clean code and design simple, easy-to-use interfaces.
@@ -67,7 +68,7 @@ I know **HTML, CSS, JavaScript, React, Tailwind CSS, Java, C++, and MySQL**. I w
 </details>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="assets/dots-divider.svg" width="100%" alt="dots" />
 </div>
 
 <div align="center">
@@ -76,7 +77,7 @@ I know **HTML, CSS, JavaScript, React, Tailwind CSS, Java, C++, and MySQL**. I w
 <br>
 
 <details open>
-<summary><b>🎓 School Focus</b></summary>
+<summary><b>School Focus</b></summary>
 <br>
 
 | | |
@@ -88,7 +89,7 @@ I know **HTML, CSS, JavaScript, React, Tailwind CSS, Java, C++, and MySQL**. I w
 </details>
 
 <details>
-<summary><b>💻 My Setup</b></summary>
+<summary><b>My Setup</b></summary>
 <br>
 
 | | |
@@ -101,17 +102,17 @@ I know **HTML, CSS, JavaScript, React, Tailwind CSS, Java, C++, and MySQL**. I w
 </details>
 
 <details>
-<summary><b>🎯 My Roadmap</b></summary>
+<summary><b>My Roadmap</b></summary>
 <br>
 
-- ✅ **Done:** Built and deployed my portfolio site
-- 🔄 **Now:** Getting better at OOP in C++ and Java
-- ⏳ **Next:** Build full-stack apps with a real database
+- ![Done](https://img.shields.io/badge/Done-000000?style=flat-square&color=000000) Built and deployed my portfolio site
+- ![Now](https://img.shields.io/badge/Now-000000?style=flat-square&color=000000) Getting better at OOP in C++ and Java
+- ![Next](https://img.shields.io/badge/Next-000000?style=flat-square&color=000000) Build full-stack apps with a real database
 
 </details>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="assets/dots-divider.svg" width="100%" alt="dots" />
 </div>
 
 <div align="center">
@@ -125,7 +126,7 @@ I know **HTML, CSS, JavaScript, React, Tailwind CSS, Java, C++, and MySQL**. I w
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="assets/dots-divider.svg" width="100%" alt="dots" />
 </div>
 
 <div align="center">
@@ -148,7 +149,7 @@ I know **HTML, CSS, JavaScript, React, Tailwind CSS, Java, C++, and MySQL**. I w
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="assets/dots-divider.svg" width="100%" alt="dots" />
 </div>
 
 <div align="center">
@@ -170,7 +171,7 @@ My developer portfolio site. Shows my work and skills.
 
 ![Deployed](https://img.shields.io/badge/Deployed-000000?style=flat-square&labelColor=000000&color=FFFFFF)
 
-[🔗 View Live](https://ggyaaaan.vercel.app)
+[![View Live](https://img.shields.io/badge/View_Live-000000?style=flat-square&logo=vercel&logoColor=white&color=000000)](https://ggyaaaan.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -190,7 +191,7 @@ A coffee shop web page. Clean and simple design.
 </table>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="assets/dots-divider.svg" width="100%" alt="dots" />
 </div>
 
 <div align="center">
@@ -208,8 +209,8 @@ A coffee shop web page. Clean and simple design.
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="assets/dots-divider.svg" width="100%" alt="dots" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&text=Thank%20you%20for%20visiting!&fontSize=20&fontColor=FFFFFF" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0369a1,100:0f172a&height=120&section=footer&text=Thank%20you%20for%20visiting!&fontSize=20&fontColor=FFFFFF" width="100%" alt="Footer Wave" />
 
 </div>
