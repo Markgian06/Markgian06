@@ -1,3 +1,7 @@
+<table width="100%" bgcolor="#000000" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#000000" align="center">
+
 <div align="center">
 
 <!-- Header Banner -->
@@ -59,13 +63,13 @@ I want to build scalable software, improve database design, and use good system 
 </tr>
 </table>
 
-<details open>
-<summary><b>My Tech Background</b></summary>
-<br>
+<div align="center">
+<img src="https://img.shields.io/badge/MY_TECH_BACKGROUND-000000?style=flat-square&color=000000" alt="My Tech Background" />
+</div>
+<br><br>
 
 I know **HTML, CSS, JavaScript, React, Tailwind CSS, Java, C++, and MySQL**. I write clean code and design simple, easy-to-use interfaces.
 
-</details>
 
 <div align="center">
 <img src="dots-divider.svg" width="100%" alt="dots" />
@@ -76,9 +80,10 @@ I know **HTML, CSS, JavaScript, React, Tailwind CSS, Java, C++, and MySQL**. I w
 </div>
 <br>
 
-<details open>
-<summary><b>School Focus</b></summary>
-<br>
+<div align="center">
+<img src="https://img.shields.io/badge/SCHOOL_FOCUS-000000?style=flat-square&color=000000" alt="School Focus" />
+</div>
+<br><br>
 
 | | |
 |:---|:---|
@@ -86,11 +91,11 @@ I know **HTML, CSS, JavaScript, React, Tailwind CSS, Java, C++, and MySQL**. I w
 | **Main Subjects** | Systems Analysis, Database Management, Web Development |
 | **Goal** | Build software that is useful and easy to use |
 
-</details>
 
-<details>
-<summary><b>My Setup</b></summary>
-<br>
+<div align="center">
+<img src="https://img.shields.io/badge/MY_SETUP-000000?style=flat-square&color=000000" alt="My Setup" />
+</div>
+<br><br>
 
 | | |
 |:---|:---|
@@ -99,17 +104,16 @@ I know **HTML, CSS, JavaScript, React, Tailwind CSS, Java, C++, and MySQL**. I w
 | **Deploy** | Vercel |
 | **OS** | Windows 11 |
 
-</details>
 
-<details>
-<summary><b>My Roadmap</b></summary>
-<br>
+<div align="center">
+<img src="https://img.shields.io/badge/MY_ROADMAP-000000?style=flat-square&color=000000" alt="My Roadmap" />
+</div>
+<br><br>
 
 - ![Done](https://img.shields.io/badge/Done-000000?style=flat-square&color=000000) Built and deployed my portfolio site
 - ![Now](https://img.shields.io/badge/Now-000000?style=flat-square&color=000000) Getting better at OOP in C++ and Java
 - ![Next](https://img.shields.io/badge/Next-000000?style=flat-square&color=000000) Build full-stack apps with a real database
 
-</details>
 
 <div align="center">
 <img src="dots-divider.svg" width="100%" alt="dots" />
@@ -214,3 +218,8 @@ A coffee shop web page. Clean and simple design.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0369a1,100:0f172a&height=120&section=footer&text=Thank%20you%20for%20visiting!&fontSize=20&fontColor=FFFFFF" width="100%" alt="Footer Wave" />
 
 </div>
+
+
+</td>
+</tr>
+</table>
