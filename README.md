@@ -10,7 +10,7 @@
 </p>
 
 <a href="https://ggyaaaan.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=2200&color=38BDF8&vCenter=true&width=750&height=50&lines=Information+Systems+Student;Web+%26+Software+Developer;Aspiring+Data+Analyst;I+Build+Clean+Working+Apps;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=2200&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=Information+Systems+Student;Web+%26+Software+Developer;Aspiring+Data+Analyst;I+Build+Clean+Working+Apps;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -168,7 +168,7 @@ I write clean code and design simple, easy-to-use interfaces.
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="text-align:center;">
 
 <div align="center">
 
@@ -188,7 +188,7 @@ Shows my work and skills.
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="text-align:center;">
 
 <div align="center">
 
