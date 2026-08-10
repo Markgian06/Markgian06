@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:38bdf8&height=220&section=header&text=MARK%20GIAN%20ABEJERO&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Information%20Systems%20Student%20%7C%20Web%20%26%20Software%20Developer&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:38bdf8&height=200&section=header&text=MARK%20GIAN%20ABEJERO&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Header Banner" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Markgian06&color=0369a1&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0f172a" alt="Profile Views" />
@@ -10,7 +10,7 @@
 </p>
 
 <a href="https://ggyaaaan.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&background=00000000&center=true&vcenter=true&width=600&height=50&lines=Information+Systems+Student;Web+%26+Software+Developer;I+Build+Clean%2C+Working+Apps;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&vCenter=true&width=600&height=50&lines=Information+Systems+Student;Web+%26+Software+Developer;I+Build+Clean+Working+Apps;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -82,7 +82,7 @@ I write clean code and design simple, easy-to-use interfaces.
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <div align="center">
 
@@ -91,13 +91,13 @@ I write clean code and design simple, easy-to-use interfaces.
 | | |
 |:---|:---|
 | **Degree** | BS in Information Systems |
-| **Main Subjects** | Systems Analysis, Database Management, Web Development |
-| **Goal** | Build software that is useful and easy to use |
+| **Main Subjects** | Systems Analysis, Database Mgmt, Web Dev |
+| **Goal** | Build useful, easy-to-use software |
 
 </div>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <div align="center">
 
@@ -113,23 +113,22 @@ I write clean code and design simple, easy-to-use interfaces.
 </div>
 
 </td>
-<td width="33%" valign="top">
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
 **🗺️ My Roadmap**
 
-✅ Built and deployed my portfolio site
+<br>
 
-🔄 Getting better at OOP in C++ and Java
-
-⏭️ Build full-stack apps with a real database
+<img src="https://img.shields.io/badge/✅_Built_%26_deployed_portfolio_site-0369a1?style=for-the-badge&labelColor=0f172a" alt="Done" />
+<img src="https://img.shields.io/badge/🔄_Improving_OOP_in_C%2B%2B_%26_Java-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Now" />
+<img src="https://img.shields.io/badge/⏭️_Full--stack_apps_with_a_real_DB-334155?style=for-the-badge&labelColor=0f172a" alt="Next" />
 
 </div>
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -173,8 +172,8 @@ I write clean code and design simple, easy-to-use interfaces.
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Markgian06&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff&border_color=0369a1&hide_border=false&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markgian06&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&border_color=0369a1&hide_border=false" width="49%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Markgian06&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff&border_color=0369a1" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markgian06&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&border_color=0369a1" width="49%" alt="Top Languages" />
 
 <br><br>
 
