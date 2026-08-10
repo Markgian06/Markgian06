@@ -3,20 +3,17 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=MARK%20GIAN%20ABEJERO&fontSize=38&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" width="100%" alt="Header Banner" />
 
-<!-- Visitor Counter & Status -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Markgian06&color=000000&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-BSIS_Student-000000?style=for-the-badge&labelColor=000000&color=000000" alt="Status" />
 </p>
 
-<!-- Typing Animation -->
 <a href="https://ggyaaaan.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=000000&background=FFFFFF00&center=true&vcenter=true&width=650&height=50&lines=Information+Systems+Student;Web+%26+Software+Developer;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&background=00000000&center=true&vcenter=true&width=650&height=50&lines=Information+Systems+Student;Web+%26+Software+Developer;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </a>
 
 <br />
 
-<!-- Links -->
 <p align="center">
   <a href="mailto:abejero.markgian@dfcamclp.edu.ph">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -33,137 +30,174 @@
 
 </div>
 
-## 📌 About Me
+<div align="center">
+<img src="https://img.shields.io/badge/ABOUT_ME-000000?style=for-the-badge&logo=aboutdotme&logoColor=white&color=000000" alt="About Me" />
+</div>
+<br>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 👤 Who I Am
-I'm a **Bachelor of Science in Information Systems** student focused on web development and software engineering. I build functional, clean, and responsive applications while continuously expanding my technical capabilities.
+<img src="https://img.shields.io/badge/WHO_I_AM-000000?style=flat-square&logo=googlecontacts&logoColor=white&color=000000" alt="Who I Am" />
+
+<br><br>
+
+I am a Bachelor of Science in Information Systems student. I focus on web development and software engineering. I build clean, working, and responsive apps.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 What I'm After
-To develop scalable software applications, improve database architectures, and apply modern system design principles to real-world problems.
+<img src="https://img.shields.io/badge/MY_GOAL-000000?style=flat-square&logo=target&logoColor=white&color=000000" alt="My Goal" />
+
+<br><br>
+
+I want to build scalable software, improve database design, and use good system design to solve real problems.
 
 </td>
 </tr>
 </table>
 
 <details open>
-<summary><b>💻 Technical Background</b></summary>
+<summary><b>💻 My Tech Background</b></summary>
 <br>
 
-My current technical foundation includes **HTML, CSS, JavaScript, React, Tailwind CSS, Java, C++, and MySQL**. I aim to write well-structured code and design clear, effective user interfaces.
+I know **HTML, CSS, JavaScript, React, Tailwind CSS, Java, C++, and MySQL**. I write clean code and design simple, easy-to-use interfaces.
 
 </details>
-
----
-
-## 📋 Interactive Information Center
-
-<details open>
-<summary><b>🎓 Academic Focus & Objectives</b></summary>
-<br>
-
-| | |
-|:---|:---|
-| **Degree Program** | Bachelor of Science in Information Systems |
-| **Core Subjects** | Systems Analysis, Database Management, Web Development |
-| **Primary Goal** | Building functional, efficient, and user-friendly software solutions |
-
-</details>
-
-<details>
-<summary><b>💻 Development Environment</b></summary>
-<br>
-
-| | |
-|:---|:---|
-| **Code Editor** | Visual Studio Code |
-| **Version Control** | Git & GitHub |
-| **Deployment** | Vercel |
-| **Operating System** | Windows 11 |
-
-</details>
-
-<details>
-<summary><b>🎯 Development Goals</b></summary>
-<br>
-
-- ✅ **Completed:** Build and deploy personal developer portfolio website
-- 🔄 **In Progress:** Improve object-oriented programming concepts in C++ and Java
-- ⏳ **Upcoming:** Build full-stack web applications connected to relational databases
-
-</details>
-
----
-
-## 🛠️ Technologies & Skills
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,py,cpp,mysql,firebase,git,vscode,vercel&theme=dark&perline=7" alt="Skill Icons" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
----
+<div align="center">
+<img src="https://img.shields.io/badge/INFO_CENTER-000000?style=for-the-badge&logo=readdotcv&logoColor=white&color=000000" alt="Info Center" />
+</div>
+<br>
 
-## 📈 GitHub Activity & Statistics
+<details open>
+<summary><b>🎓 School Focus</b></summary>
+<br>
+
+| | |
+|:---|:---|
+| **Degree** | BS in Information Systems |
+| **Main Subjects** | Systems Analysis, Database Management, Web Development |
+| **Goal** | Build software that is useful and easy to use |
+
+</details>
+
+<details>
+<summary><b>💻 My Setup</b></summary>
+<br>
+
+| | |
+|:---|:---|
+| **Editor** | Visual Studio Code |
+| **Version Control** | Git & GitHub |
+| **Deploy** | Vercel |
+| **OS** | Windows 11 |
+
+</details>
+
+<details>
+<summary><b>🎯 My Roadmap</b></summary>
+<br>
+
+- ✅ **Done:** Built and deployed my portfolio site
+- 🔄 **Now:** Getting better at OOP in C++ and Java
+- ⏳ **Next:** Build full-stack apps with a real database
+
+</details>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SKILLS-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=000000" alt="Skills" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,py,cpp,mysql,firebase,git,vscode,vercel&theme=dark&perline=7" alt="Skill Icons" />
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GITHUB_STATS-000000?style=for-the-badge&logo=github&logoColor=white&color=000000" alt="GitHub Stats" />
+
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Markgian06&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff&hide_border=false&count_private=true" width="49%" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markgian06&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff&hide_border=false" width="49%" alt="Top Languages" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Markgian06&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=false&border_color=ffffff" alt="Activity Graph" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=Markgian06&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" width="100%" />
 
 <br><br>
 
-<a href="https://github.com/Markgian06">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Markgian06&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&hide_border=false" alt="GitHub Streak" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=Markgian06&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" alt="Trophies" width="100%" />
 
 </div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
-## 📂 Featured Projects
+<div align="center">
+<img src="https://img.shields.io/badge/MY_PROJECTS-000000?style=for-the-badge&logo=googledocs&logoColor=white&color=000000" alt="My Projects" />
+</div>
+<br>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Personal Portfolio
-Responsive developer portfolio website showcasing my work and skills.
+<img src="https://img.shields.io/badge/PERSONAL_PORTFOLIO-000000?style=flat-square&logo=react&logoColor=white&color=000000" alt="Personal Portfolio" />
+
+<br><br>
+
+My developer portfolio site. Shows my work and skills.
 
 `React` `Vite` `Tailwind CSS`
 
-**Status:** ![Deployed](https://img.shields.io/badge/Deployed-000000?style=flat-square&labelColor=000000&color=FFFFFF)
+![Deployed](https://img.shields.io/badge/Deployed-000000?style=flat-square&labelColor=000000&color=FFFFFF)
 
 [🔗 View Live](https://ggyaaaan.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-### ☕ Timeless Brew
-Coffee shop web interface with clean, modern layout and UI.
+<img src="https://img.shields.io/badge/TIMELESS_BREW-000000?style=flat-square&logo=coffeescript&logoColor=white&color=000000" alt="Timeless Brew" />
+
+<br><br>
+
+A coffee shop web page. Clean and simple design.
 
 `HTML` `CSS` `JavaScript`
 
-**Status:** ![Completed](https://img.shields.io/badge/Completed-000000?style=flat-square&labelColor=000000&color=FFFFFF)
+![Completed](https://img.shields.io/badge/Completed-000000?style=flat-square&labelColor=000000&color=FFFFFF)
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 <div align="center">
 
-### 💬 Let's Connect
+<img src="https://img.shields.io/badge/LET'S_CONNECT-000000?style=for-the-badge&logo=wechat&logoColor=white&color=000000" alt="Let's Connect" />
+
+<br><br>
 
 <a href="mailto:abejero.markgian@dfcamclp.edu.ph">
   <img src="https://img.shields.io/badge/Say_Hello-000000?style=for-the-badge&logo=maildotru&logoColor=white" alt="Say Hello" />
@@ -176,7 +210,6 @@ Coffee shop web interface with clean, modern layout and UI.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<!-- Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&text=Thank%20you%20for%20visiting!&fontSize=20&fontColor=FFFFFF" width="100%" alt="Footer Wave" />
 
 </div>
