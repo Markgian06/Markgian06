@@ -10,7 +10,7 @@
 </p>
 
 <a href="https://ggyaaaan.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=2200&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=Information+Systems+Student;Web+%26+Software+Developer;Aspiring+Data+Analyst;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=2200&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=Information+Systems+Student;Web+%26+Software+Developer;Aspiring+Data+Analyst;I+Build+Clean+Working+Apps;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -79,16 +79,24 @@ I write clean code and design simple, easy-to-use interfaces.
 
 <img src="https://api.iconify.design/mdi/map-marker-path.svg?color=%2338bdf8" width="22" style="vertical-align:middle;" alt="" /> **My Roadmap**
 
-<br>
+<br><br>
 
+<span style="display:inline-block; white-space:nowrap; margin:6px;">
 <img src="https://api.iconify.design/mdi/check-circle.svg?color=%2338bdf8" width="18" style="vertical-align:middle;" alt="" />
 <img src="https://img.shields.io/badge/Built_%26_deployed_portfolio_site-0369a1?style=for-the-badge&labelColor=0f172a" alt="Done" />
+</span>
+<span style="display:inline-block; white-space:nowrap; margin:6px;">
 <img src="https://api.iconify.design/mdi/sync.svg?color=%2338bdf8" width="18" style="vertical-align:middle;" alt="" />
 <img src="https://img.shields.io/badge/Improving_OOP_in_C%2B%2B_%26_Java-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Now" />
+</span>
+<span style="display:inline-block; white-space:nowrap; margin:6px;">
 <img src="https://api.iconify.design/mdi/arrow-right-bold-circle.svg?color=%23334155" width="18" style="vertical-align:middle;" alt="" />
 <img src="https://img.shields.io/badge/Full--stack_apps_with_a_real_DB-334155?style=for-the-badge&labelColor=0f172a" alt="Next" />
+</span>
+<span style="display:inline-block; white-space:nowrap; margin:6px;">
 <img src="https://api.iconify.design/mdi/chart-line.svg?color=%2316a34a" width="18" style="vertical-align:middle;" alt="" />
 <img src="https://img.shields.io/badge/Become_a_Data_Analyst-16a34a?style=for-the-badge&labelColor=0f172a" alt="Dream" />
+</span>
 
 </div>
 
