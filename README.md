@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Top Header Banner -->
+  <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=MARK%20GIAN%20ABEJERO&fontSize=40&fontColor=ffffff&fontAlignY=35" width="100%" alt="Header Banner" />
 
-  <!-- Profile Visitor Counter & Status Badge -->
+  <!-- Visitor Counter & Status -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Markgian06&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Status-BSIS_Student-0F172A?style=for-the-badge&logoColor=38BDF8" alt="Status" />
@@ -16,7 +16,7 @@
 
   <br />
 
-  <!-- Contact & Links -->
+  <!-- Links -->
   <p align="center">
     <a href="mailto:abejero.markgian@dfcamclp.edu.ph">
       <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
@@ -35,51 +35,77 @@
 
 ## 📌 About Me
 
-<table>
-  <tr>
-    <td width="60%">
-      <p>I am a <b>Bachelor of Science in Information Systems</b> student with a focus on web development and software engineering.</p>
-      <p>My current technical skills include <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React</b>, <b>Tailwind CSS</b>, <b>Java</b>, <b>C++</b>, and <b>MySQL</b>.</p>
-      <p>I build clean, user-friendly websites and software applications while continuously expanding my technical knowledge.</p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUGG4dbv5BLOY4WC/giphy.gif" width="100%" alt="Coding Animation" />
-    </td>
-  </tr>
-</table>
+<details open>
+  <summary><b>👤 Profile Overview</b></summary>
+  <br />
+  <p>I am a <b>Bachelor of Science in Information Systems</b> student focused on web development and software engineering. I build functional, clean, and responsive applications while continuously expanding my technical capabilities.</p>
+</details>
+
+<details>
+  <summary><b>💻 Technical Background</b></summary>
+  <br />
+  <p>My current technical foundation includes <b>HTML, CSS, JavaScript, React, Tailwind CSS, Java, C++, and MySQL</b>. I aim to write well-structured code and design clear, effective user interfaces.</p>
+</details>
+
+<details>
+  <summary><b>🎯 Career Objective</b></summary>
+  <br />
+  <p>To develop scalable software applications, improve database architectures, and apply modern system design principles to real-world problems.</p>
+</details>
 
 ---
 
 ## 📋 Interactive Information Center
 
-<details>
+<details open>
   <summary><b>🎓 Academic Focus & Objectives</b></summary>
   <br />
-  <ul>
-    <li><b>Degree Program:</b> Bachelor of Science in Information Systems</li>
-    <li><b>Core Subjects:</b> Systems Analysis, Database Management, Web Development</li>
-    <li><b>Goal:</b> Building functional, efficient, and user-friendly software solutions.</li>
-  </ul>
+  <table>
+    <tr>
+      <td><b>Degree Program</b></td>
+      <td>Bachelor of Science in Information Systems</td>
+    </tr>
+    <tr>
+      <td><b>Core Subjects</b></td>
+      <td>Systems Analysis, Database Management, Web Development</td>
+    </tr>
+    <tr>
+      <td><b>Primary Goal</b></td>
+      <td>Building functional, efficient, and user-friendly software solutions</td>
+    </tr>
+  </table>
 </details>
 
 <details>
   <summary><b>💻 Development Environment</b></summary>
   <br />
-  <ul>
-    <li><b>Primary Code Editor:</b> Visual Studio Code</li>
-    <li><b>Version Control:</b> Git and GitHub</li>
-    <li><b>Deployment Platform:</b> Vercel</li>
-    <li><b>Operating System:</b> Windows 11</li>
-  </ul>
+  <table>
+    <tr>
+      <td><b>Code Editor</b></td>
+      <td>Visual Studio Code</td>
+    </tr>
+    <tr>
+      <td><b>Version Control</b></td>
+      <td>Git & GitHub</td>
+    </tr>
+    <tr>
+      <td><b>Deployment</b></td>
+      <td>Vercel</td>
+    </tr>
+    <tr>
+      <td><b>Operating System</b></td>
+      <td>Windows 11</td>
+    </tr>
+  </table>
 </details>
 
 <details>
   <summary><b>🎯 Development Goals</b></summary>
   <br />
   <ul>
-    <li>[x] Build and deploy personal developer portfolio website</li>
-    <li>[ ] Improve object-oriented programming concepts in C++ and Java</li>
-    <li>[ ] Build full-stack web applications connected to databases</li>
+    <li>✅ <b>Completed:</b> Build and deploy personal developer portfolio website</li>
+    <li>🔄 <b>In Progress:</b> Improve object-oriented programming concepts in C++ and Java</li>
+    <li>⏳ <b>Upcoming:</b> Build full-stack web applications connected to relational databases</li>
   </ul>
 </details>
 
@@ -113,10 +139,10 @@
 
 ## 📂 Featured Projects
 
-| Project | Description | Technologies | Links |
+| Project | Description | Technologies | Status |
 | :--- | :--- | :--- | :--- |
-| **Personal Portfolio** | Responsive developer portfolio website | React, Vite, Tailwind CSS | [Live Website](https://ggyaaaan.vercel.app) \| [GitHub Repo](https://github.com/Markgian06/PORTFOLIO) |
-| **Timeless Brew** | Coffee shop web interface | HTML, CSS, JavaScript | Web Application |
+| **Personal Portfolio** | Responsive developer portfolio website | React, Vite, Tailwind CSS | Deployed |
+| **Timeless Brew** | Coffee shop web interface | HTML, CSS, JavaScript | Completed |
 
 ---
 
