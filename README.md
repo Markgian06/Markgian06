@@ -1,22 +1,22 @@
 <div align="center">
 
-  <!-- Top Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=MARK%20GIAN%20ABEJERO&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" alt="Header Banner" />
+  <!-- Top Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=MARK%20GIAN%20ABEJERO&fontSize=40&fontColor=ffffff&fontAlignY=35" width="100%" alt="Header Banner" />
 
-  <!-- Profile Visitor Counter & Status Badges -->
+  <!-- Profile Visitor Counter & Status Badge -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Markgian06&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Building_%26_Learning-0F172A?style=for-the-badge&logoColor=38BDF8" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-BSIS_Student-0F172A?style=for-the-badge&logoColor=38BDF8" alt="Status" />
   </p>
 
-  <!-- Typing SVG -->
+  <!-- Typing Animation -->
   <a href="https://github.com/Markgian06">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&height=50&lines=Hello%2C+I'm+Mark+Gian!+%F0%9F%91%BE;BSIS+Student+%7C+Software+Developer;Welcome+to+my+GitHub+space!+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&height=50&lines=Information+Systems+Student;Web+%26+Software+Developer;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
   </a>
 
   <br />
 
-  <!-- Quick Social Links -->
+  <!-- Contact & Links -->
   <p align="center">
     <a href="mailto:abejero.markgian@dfcamclp.edu.ph">
       <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
@@ -33,15 +33,14 @@
 
 ---
 
-## 💫 About Me
+## 📌 About Me
 
 <table>
   <tr>
     <td width="60%">
-      <p>🎓 I'm a <b>Bachelor of Science in Information Systems</b> student passionate about software development and clean UI design.</p>
-      <p>💻 Currently diving deeper into <b>C++</b>, <b>Java</b>, and modern web frameworks like <b>React</b> & <b>Tailwind CSS</b>.</p>
-      <p>🎮 In my free time, I enjoy playing PC & mobile games and exploring tech innovations.</p>
-      <p>🎯 <i>"Every experience is an opportunity for growth and continuous learning."</i></p>
+      <p>I am a <b>Bachelor of Science in Information Systems</b> student with a focus on web development and software engineering.</p>
+      <p>My current technical skills include <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React</b>, <b>Tailwind CSS</b>, <b>Java</b>, <b>C++</b>, and <b>MySQL</b>.</p>
+      <p>I build clean, user-friendly websites and software applications while continuously expanding my technical knowledge.</p>
     </td>
     <td width="40%" align="center">
       <img src="https://media.giphy.com/media/qgQUGG4dbv5BLOY4WC/giphy.gif" width="100%" alt="Coding Animation" />
@@ -51,73 +50,54 @@
 
 ---
 
-## ⚡ Interactive Navigation Center
+## 📋 Interactive Information Center
 
 <details>
-  <summary><b>🎓 Academic Journey & Focus</b></summary>
+  <summary><b>🎓 Academic Focus & Objectives</b></summary>
   <br />
   <ul>
-    <li><b>Degree:</b> BS in Information Systems</li>
-    <li><b>Core Interests:</b> Web Development, Database Management, System Analysis</li>
-    <li><b>Goal:</b> Building scalable, user-centric web applications and software systems.</li>
+    <li><b>Degree Program:</b> Bachelor of Science in Information Systems</li>
+    <li><b>Core Subjects:</b> Systems Analysis, Database Management, Web Development</li>
+    <li><b>Goal:</b> To build functional, efficient, and user-friendly software solutions.</li>
   </ul>
 </details>
 
 <details>
-  <summary><b>💻 Development Setup & Tools</b></summary>
+  <summary><b>💻 Development Environment</b></summary>
   <br />
   <ul>
-    <li><b>Editor:</b> VS Code</li>
-    <li><b>Version Control:</b> Git & GitHub</li>
-    <li><b>Deployment:</b> Vercel</li>
+    <li><b>Primary Code Editor:</b> Visual Studio Code</li>
+    <li><b>Version Control:</b> Git and GitHub</li>
+    <li><b>Deployment Platform:</b> Vercel</li>
     <li><b>Operating System:</b> Windows 11</li>
   </ul>
 </details>
 
 <details>
-  <summary><b>🎯 Current Roadmap for 2026</b></summary>
+  <summary><b>🎯 Development Goals</b></summary>
   <br />
   <ul>
-    <li>[x] Build a custom personal portfolio with React & Tailwind CSS</li>
-    <li>[ ] Master advanced Data Structures & Algorithms in C++</li>
-    <li>[ ] Develop full-stack MERN/PERN applications</li>
-    <li>[ ] Contribute to open-source projects</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>🎮 Gaming Lounge & Hobbies</b></summary>
-  <br />
-  <ul>
-    <li><b>Platforms:</b> PC & Mobile</li>
-    <li><b>Genres:</b> Tactical Shooters, RPGs, Strategy</li>
-    <li><b>Favorite Activity:</b> Exploring new technology stacks & UI/UX trends</li>
+    <li>[x] Build and deploy personal developer portfolio website using React</li>
+    <li>[ ] Improve object-oriented programming concepts in C++ and Java</li>
+    <li>[ ] Build full-stack web applications connected to databases</li>
   </ul>
 </details>
 
 ---
 
-## 🛠️ Interactive Tech Stack
+## 🛠️ Technologies & Skills
 
 <div align="center">
-  <p>Hover over icons to inspect technologies:</p>
+  <p><i>Hover over any icon to view technology name:</i></p>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,py,cpp,mysql,firebase,git,vscode,vercel&perline=7" alt="My Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,py,cpp,mysql,firebase,git,vscode,vercel&perline=7" alt="Skill Icons" />
   </a>
 </div>
 
 ---
 
-## 💡 Daily Developer Motivation
-
-<div align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&bg_color=0f172a&color=38bdf8&author_color=ffffff" alt="Daily Dev Quote" />
-</div>
-
----
-
-## 📈 GitHub Contribution Analytics
+## 📈 GitHub Activity & Statistics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Markgian06&theme=tokyo-night&bg_color=0f172a&hide_border=true&color=38bdf8" alt="Activity Graph" width="100%" />
@@ -133,18 +113,18 @@
 
 ---
 
-## 🌟 Featured Projects
+## 📂 Featured Projects
 
-| Project | Description | Tech Stack | Repository |
+| Project | Description | Technologies | Link |
 | :--- | :--- | :--- | :--- |
-| **📁 Personal Portfolio** | Interactive React & Vite developer showcase | React, Tailwind, Vite | [View Code](https://github.com/Markgian06/PORTFOLIO) |
-| **☕ Timeless Brew** | Modern coffee shop web experience | HTML, CSS, JavaScript | [View Code](#) |
+| **Personal Portfolio** | Responsive developer website | React, Vite, Tailwind CSS | [Repository](https://github.com/Markgian06/PORTFOLIO) |
+| **Timeless Brew** | Coffee shop web interface | HTML, CSS, JavaScript | [Repository](#) |
 
 ---
 
-<!-- Bottom Wave Banner -->
+<!-- Footer Banner -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20%F0%9F%91%8B&fontSize=20&fontColor=ffffff" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer&text=Thank%20you%20for%20visiting!&fontSize=20&fontColor=ffffff" width="100%" alt="Footer Wave" />
 
 </div>
