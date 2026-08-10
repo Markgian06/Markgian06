@@ -3,20 +3,20 @@
   <!-- Top Wave Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=MARK%20GIAN%20ABEJERO&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" alt="Header Banner" />
 
-  <!-- Profile Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Markgian06&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <!-- Profile Visitor Counter & Status Badges -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Markgian06&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Status-Building_%26_Learning-0F172A?style=for-the-badge&logoColor=38BDF8" alt="Status" />
+  </p>
 
-  <br />
-  <br />
-
-  <!-- Typing SVG (Dark Blue & White Accent) -->
+  <!-- Typing SVG -->
   <a href="https://github.com/Markgian06">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&height=50&lines=Hello%2C+I'm+Mark+Gian!+%F0%9F%91%BE;BSIS+Student+%7C+Software+Developer;Welcome+to+my+GitHub+space!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br />
 
-  <!-- Social & Portfolio Badges -->
+  <!-- Quick Social Links -->
   <p align="center">
     <a href="mailto:abejero.markgian@dfcamclp.edu.ph">
       <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
@@ -51,47 +51,73 @@
 
 ---
 
-## ⚡ Interactive Quick Facts
+## ⚡ Interactive Navigation Center
 
 <details>
-  <summary><b>🔍 Click to expand my hobbies & current focus</b></summary>
+  <summary><b>🎓 Academic Journey & Focus</b></summary>
   <br />
+  <ul>
+    <li><b>Degree:</b> BS in Information Systems</li>
+    <li><b>Core Interests:</b> Web Development, Database Management, System Analysis</li>
+    <li><b>Goal:</b> Building scalable, user-centric web applications and software systems.</li>
+  </ul>
+</details>
 
-  * 🔭 **Working on:** Responsive web applications & custom portfolio designs.
-  * 📚 **Learning:** Advanced Data Structures in C++ & Full-Stack architecture.
-  * 💬 **Ask me about:** HTML, CSS, JavaScript, MySQL, and Java basics.
-  * 🎮 **Gaming:** Strategy, FPS, and RPG titles across PC and mobile.
+<details>
+  <summary><b>💻 Development Setup & Tools</b></summary>
+  <br />
+  <ul>
+    <li><b>Editor:</b> VS Code</li>
+    <li><b>Version Control:</b> Git & GitHub</li>
+    <li><b>Deployment:</b> Vercel</li>
+    <li><b>Operating System:</b> Windows 11</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🎯 Current Roadmap for 2026</b></summary>
+  <br />
+  <ul>
+    <li>[x] Build a custom personal portfolio with React & Tailwind CSS</li>
+    <li>[ ] Master advanced Data Structures & Algorithms in C++</li>
+    <li>[ ] Develop full-stack MERN/PERN applications</li>
+    <li>[ ] Contribute to open-source projects</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🎮 Gaming Lounge & Hobbies</b></summary>
+  <br />
+  <ul>
+    <li><b>Platforms:</b> PC & Mobile</li>
+    <li><b>Genres:</b> Tactical Shooters, RPGs, Strategy</li>
+    <li><b>Favorite Activity:</b> Exploring new technology stacks & UI/UX trends</li>
+  </ul>
 </details>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Interactive Tech Stack
 
 <div align="center">
-
-  ### **Frontend**
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=38BDF8" />
-    <img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=38BDF8" />
-    <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=38BDF8" />
-    <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=38BDF8" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
-  </p>
-
-  ### **Backend & Databases**
-  <p>
-    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=ffffff" />
-  </p>
-
+  <p>Hover over icons to inspect technologies:</p>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,py,cpp,mysql,firebase,git,vscode,vercel&perline=7" alt="My Skill Icons" />
+  </a>
 </div>
 
 ---
 
-## 📈 GitHub Contribution Activity
+## 💡 Daily Developer Motivation
+
+<div align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&bg_color=0f172a&color=38bdf8&author_color=ffffff" alt="Daily Dev Quote" />
+</div>
+
+---
+
+## 📈 GitHub Contribution Analytics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Markgian06&theme=tokyo-night&bg_color=0f172a&hide_border=true&color=38bdf8" alt="Activity Graph" width="100%" />
