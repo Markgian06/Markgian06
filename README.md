@@ -76,49 +76,6 @@ I write clean code and design simple, easy-to-use interfaces.
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/INFO_CENTER-0f172a?style=for-the-badge&logo=readdotcv&logoColor=white&color=0f172a" alt="Info Center" />
-</div>
-<br>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**🎓 School Focus**
-
-<table style="margin:auto;">
-<tr><td style="text-align:center;"><b>Degree</b></td><td style="text-align:center;">BS in Information Systems</td></tr>
-<tr><td style="text-align:center;"><b>Main Subjects</b></td><td style="text-align:center;">Systems Analysis, Database Mgmt, Web Dev</td></tr>
-<tr><td style="text-align:center;"><b>Goal</b></td><td style="text-align:center;">Become a skilled Data Analyst</td></tr>
-</table>
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**⚙️ My Setup**
-
-<table style="margin:auto;">
-<tr><td style="text-align:center;"><b>Editor</b></td><td style="text-align:center;">Visual Studio Code</td></tr>
-<tr><td style="text-align:center;"><b>Version Control</b></td><td style="text-align:center;">Git & GitHub</td></tr>
-<tr><td style="text-align:center;"><b>Deploy</b></td><td style="text-align:center;">Vercel</td></tr>
-<tr><td style="text-align:center;"><b>OS</b></td><td style="text-align:center;">Windows 11</td></tr>
-</table>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
 
 **🗺️ My Roadmap**
 
