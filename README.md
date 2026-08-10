@@ -5,8 +5,8 @@
 
 <!-- Visitor Counter & Status -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Markgian06&color=000000&style=for-the-badge&label=PROFILE+VIEWS&labelColor=FFFFFF" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-BSIS_Student-000000?style=for-the-badge&labelColor=FFFFFF&color=000000" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=Markgian06&color=000000&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-BSIS_Student-000000?style=for-the-badge&labelColor=000000&color=000000" alt="Status" />
 </p>
 
 <!-- Typing Animation -->
