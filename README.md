@@ -278,6 +278,53 @@
 </picture>
 </details>
 
+<details>
+<summary><b>Contribution calendar by year</b></summary>
+<br>
+<sub>Open a year to see its contribution calendar. The first load can take a few seconds.</sub>
+<br><br>
+
+<details open>
+<summary><b>2026</b></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Markgian06&theme=dark&year=2026&stats=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Markgian06&theme=light&year=2026&stats=true">
+  <img alt="Contributions in 2026" src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Markgian06&theme=light&year=2026&stats=true" width="100%">
+</picture>
+</details>
+
+<details>
+<summary><b>2025</b></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Markgian06&theme=dark&year=2025&stats=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Markgian06&theme=light&year=2025&stats=true">
+  <img alt="Contributions in 2025" src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Markgian06&theme=light&year=2025&stats=true" width="100%">
+</picture>
+</details>
+
+<details>
+<summary><b>2024</b></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Markgian06&theme=dark&year=2024&stats=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Markgian06&theme=light&year=2024&stats=true">
+  <img alt="Contributions in 2024" src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Markgian06&theme=light&year=2024&stats=true" width="100%">
+</picture>
+</details>
+
+<details>
+<summary><b>2023</b></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Markgian06&theme=dark&year=2023&stats=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Markgian06&theme=light&year=2023&stats=true">
+  <img alt="Contributions in 2023" src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Markgian06&theme=light&year=2023&stats=true" width="100%">
+</picture>
+</details>
+</details>
+
 <sub><a href="#top">Back to top</a></sub>
 </details>
 
