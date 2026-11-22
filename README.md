@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" id="top">
 
 <!-- Banner (self-hosted SVG, dark / light mode) -->
 <picture>
@@ -30,14 +30,18 @@
   <a href="#contact">Contact</a>
 </p>
 
-<!-- ABOUT -->
+<sub>Tip: click any section title below to collapse or expand it.</sub>
+
+<!-- ============ ABOUT ============ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./divider-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./divider-light.svg">
   <img alt="" src="./divider-light.svg" width="100%">
 </picture>
 
-<h3 align="center" id="about">About</h3>
+<details open id="about">
+<summary><b>ABOUT</b></summary>
+<br>
 
 <p align="center">
   I am a Bachelor of Science in Information Systems student<br>
@@ -91,30 +95,35 @@
 </table>
 </details>
 
-<!-- SKILLS -->
+<sub><a href="#top">Back to top</a></sub>
+</details>
+
+<!-- ============ SKILLS ============ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./divider-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./divider-light.svg">
   <img alt="" src="./divider-light.svg" width="100%">
 </picture>
 
-<h3 align="center" id="skills">Skills</h3>
-
-<p align="center">
-  <b>Front-end</b><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light">
-    <img alt="HTML, CSS, JavaScript, React, Tailwind CSS" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light">
-  </picture>
-</p>
+<details open id="skills">
+<summary><b>SKILLS</b></summary>
+<br>
 
 <p align="center">
   <b>Programming Languages</b><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,cpp,py&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,cpp,py&theme=light">
-    <img alt="Java, C++, Python" src="https://skillicons.dev/icons?i=java,cpp,py&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,java,cpp,py&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,java,cpp,py&theme=light">
+    <img alt="HTML, CSS, JavaScript, Java, C++, Python" src="https://skillicons.dev/icons?i=html,css,js,java,cpp,py&theme=light">
+  </picture>
+</p>
+
+<p align="center">
+  <b>Frameworks &amp; Libraries</b><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,tailwind&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,tailwind&theme=light">
+    <img alt="React, Tailwind CSS" src="https://skillicons.dev/icons?i=react,tailwind&theme=light">
   </picture>
 </p>
 
@@ -148,14 +157,19 @@
 </p>
 </details>
 
-<!-- PROJECTS -->
+<sub><a href="#top">Back to top</a></sub>
+</details>
+
+<!-- ============ PROJECTS ============ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./divider-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./divider-light.svg">
   <img alt="" src="./divider-light.svg" width="100%">
 </picture>
 
-<h3 align="center" id="projects">Projects</h3>
+<details open id="projects">
+<summary><b>PROJECTS</b></summary>
+<br>
 
 <table align="center">
   <tr>
@@ -175,30 +189,49 @@
   </tr>
 </table>
 
-<!-- ACTIVITY -->
+<sub><a href="#top">Back to top</a></sub>
+</details>
+
+<!-- ============ ACTIVITY ============ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./divider-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./divider-light.svg">
   <img alt="" src="./divider-light.svg" width="100%">
 </picture>
 
-<h3 align="center" id="activity">GitHub Activity</h3>
+<details open id="activity">
+<summary><b>GITHUB ACTIVITY</b></summary>
+<br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Markgian06&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&card_width=420">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Markgian06&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0369a1&icon_color=0369a1&text_color=1e293b&card_width=420">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Markgian06&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0369a1&icon_color=0369a1&text_color=1e293b&card_width=420" width="420">
-  </picture>
-</p>
+<details open>
+<summary><b>Overview</b></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Markgian06&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&card_width=420">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Markgian06&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0369a1&icon_color=0369a1&text_color=1e293b&card_width=420">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Markgian06&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0369a1&icon_color=0369a1&text_color=1e293b&card_width=420" width="420">
+</picture>
+</details>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Markgian06&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8&border=0369a1">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Markgian06&background=ffffff&stroke=0369a1&ring=0369a1&fire=0369a1&currStreakLabel=0369a1&sideLabels=1e293b&currStreakNum=1e293b&sideNums=1e293b&dates=475569&border=bae6fd">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Markgian06&background=ffffff&stroke=0369a1&ring=0369a1&fire=0369a1&currStreakLabel=0369a1&sideLabels=1e293b&currStreakNum=1e293b&sideNums=1e293b&dates=475569&border=bae6fd" width="420">
-  </picture>
-</p>
+<details open>
+<summary><b>Most used languages</b></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Markgian06&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&card_width=420">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Markgian06&layout=compact&hide_border=true&bg_color=ffffff&title_color=0369a1&text_color=1e293b&card_width=420">
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markgian06&layout=compact&hide_border=true&bg_color=ffffff&title_color=0369a1&text_color=1e293b&card_width=420" width="420">
+</picture>
+</details>
+
+<details open>
+<summary><b>Contribution streak</b></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Markgian06&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8&border=0369a1">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Markgian06&background=ffffff&stroke=0369a1&ring=0369a1&fire=0369a1&currStreakLabel=0369a1&sideLabels=1e293b&currStreakNum=1e293b&sideNums=1e293b&dates=475569&border=bae6fd">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Markgian06&background=ffffff&stroke=0369a1&ring=0369a1&fire=0369a1&currStreakLabel=0369a1&sideLabels=1e293b&currStreakNum=1e293b&sideNums=1e293b&dates=475569&border=bae6fd" width="420">
+</picture>
+</details>
 
 <details>
 <summary><b>Contribution graph</b></summary>
@@ -210,14 +243,19 @@
 </picture>
 </details>
 
-<!-- CONTACT -->
+<sub><a href="#top">Back to top</a></sub>
+</details>
+
+<!-- ============ CONTACT ============ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./divider-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./divider-light.svg">
   <img alt="" src="./divider-light.svg" width="100%">
 </picture>
 
-<h3 align="center" id="contact">Contact</h3>
+<details open id="contact">
+<summary><b>CONTACT</b></summary>
+<br>
 
 <p align="center">
   Open to collaboration, internships, and professional networking.
@@ -228,6 +266,9 @@
   <a href="https://www.linkedin.com/in/mark-gian-abejero-a69777298"><img src="https://img.shields.io/badge/LinkedIn-0369a1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=334155" alt="LinkedIn"></a>
   <a href="https://ggyaaaan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0369a1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=334155" alt="Portfolio"></a>
 </p>
+
+<sub><a href="#top">Back to top</a></sub>
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./divider-dark.svg">
