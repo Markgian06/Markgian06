@@ -1,17 +1,17 @@
 <div align="center">
 
-<!-- Header (dark / light mode) -->
+<!-- Banner (self-hosted SVG, dark / light mode) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:38bdf8&height=170&section=header&text=MARK%20GIAN%20ABEJERO&fontSize=46&fontColor=ffffff&fontAlignY=40">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:7dd3fc,100:0369a1&height=170&section=header&text=MARK%20GIAN%20ABEJERO&fontSize=46&fontColor=0f172a&fontAlignY=40">
-  <img alt="Mark Gian Abejero" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:38bdf8&height=170&section=header&text=MARK%20GIAN%20ABEJERO&fontSize=46&fontColor=ffffff&fontAlignY=40" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
+  <img alt="Mark Gian Abejero - BS Information Systems" src="./banner-light.svg" width="100%">
 </picture>
 
-<!-- Typing animation (dark / light mode) -->
+<!-- Typing animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=2000&color=38BDF8&center=true&vCenter=true&width=400&height=40&lines=Information+Systems+Student;Aspiring+Data+Analyst;Web+Developer">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=2000&color=0369A1&center=true&vCenter=true&width=400&height=40&lines=Information+Systems+Student;Aspiring+Data+Analyst;Web+Developer">
-  <img alt="Information Systems Student | Aspiring Data Analyst | Web Developer" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=2000&color=38BDF8&center=true&vCenter=true&width=400&height=40&lines=Information+Systems+Student;Aspiring+Data+Analyst;Web+Developer">
+  <img alt="Information Systems Student | Aspiring Data Analyst | Web Developer" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=2000&color=0369A1&center=true&vCenter=true&width=400&height=40&lines=Information+Systems+Student;Aspiring+Data+Analyst;Web+Developer">
 </picture>
 
 <p align="center">
@@ -26,11 +26,18 @@
   <a href="#about">About</a> &nbsp;·&nbsp;
   <a href="#skills">Skills</a> &nbsp;·&nbsp;
   <a href="#projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#activity">Activity</a> &nbsp;·&nbsp;
   <a href="#contact">Contact</a>
 </p>
 
 <!-- ABOUT -->
-<h2 align="center" id="about">About</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./divider-light.svg">
+  <img alt="" src="./divider-light.svg" width="100%">
+</picture>
+
+<h3 align="center" id="about">About</h3>
 
 <p align="center">
   I am a Bachelor of Science in Information Systems student<br>
@@ -39,11 +46,13 @@
   with simple, easy-to-use interfaces.
 </p>
 
-<p align="center">
-  My goal is to become a <b>Data Analyst</b>:<br>
-  turning raw data into clear, reliable insights<br>
-  using database design, SQL, and analytics tools.
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="33%"><b>Focus</b><br><sub>Web Development<br>Software Engineering</sub></td>
+    <td align="center" valign="top" width="33%"><b>Learning</b><br><sub>Data Analytics<br>SQL · Python</sub></td>
+    <td align="center" valign="top" width="33%"><b>Goal</b><br><sub>Become a<br>Data Analyst</sub></td>
+  </tr>
+</table>
 
 <details>
 <summary><b>Currently focused on</b></summary>
@@ -83,13 +92,49 @@
 </details>
 
 <!-- SKILLS -->
-<h2 align="center" id="skills">Skills</h2>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,py,cpp,mysql,firebase,git,vscode,vercel&theme=dark&perline=7">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,py,cpp,mysql,firebase,git,vscode,vercel&theme=light&perline=7">
-  <img alt="HTML, CSS, JavaScript, React, Tailwind CSS, Java, Python, C++, MySQL, Firebase, Git, VS Code, Vercel" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,py,cpp,mysql,firebase,git,vscode,vercel&theme=dark&perline=7">
+  <source media="(prefers-color-scheme: dark)" srcset="./divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./divider-light.svg">
+  <img alt="" src="./divider-light.svg" width="100%">
 </picture>
+
+<h3 align="center" id="skills">Skills</h3>
+
+<p align="center">
+  <b>Front-end</b><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light">
+    <img alt="HTML, CSS, JavaScript, React, Tailwind CSS" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light">
+  </picture>
+</p>
+
+<p align="center">
+  <b>Programming Languages</b><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,cpp,py&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,cpp,py&theme=light">
+    <img alt="Java, C++, Python" src="https://skillicons.dev/icons?i=java,cpp,py&theme=light">
+  </picture>
+</p>
+
+<p align="center">
+  <b>Database &amp; Cloud</b><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,firebase&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,firebase&theme=light">
+    <img alt="MySQL, Firebase" src="https://skillicons.dev/icons?i=mysql,firebase&theme=light">
+  </picture>
+</p>
+
+<p align="center">
+  <b>Tools &amp; Deployment</b><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,vscode,vercel&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,vscode,vercel&theme=light">
+    <img alt="Git, VS Code, Vercel" src="https://skillicons.dev/icons?i=git,vscode,vercel&theme=light">
+  </picture>
+</p>
 
 <details>
 <summary><b>Data analytics path</b></summary>
@@ -104,36 +149,46 @@
 </details>
 
 <!-- PROJECTS -->
-<h2 align="center" id="projects">Projects</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./divider-light.svg">
+  <img alt="" src="./divider-light.svg" width="100%">
+</picture>
 
-<details open>
-<summary><b>Personal Portfolio</b></summary>
-<br>
-<p align="center">
-  A developer portfolio website showcasing my work and skills.<br><br>
-  <b>Stack:</b> <code>React</code> <code>Vite</code> <code>Tailwind CSS</code><br>
-  <b>Status:</b> Deployed &nbsp;·&nbsp; <a href="https://ggyaaaan.vercel.app">View live</a>
-</p>
-</details>
+<h3 align="center" id="projects">Projects</h3>
 
-<details>
-<summary><b>Timeless Brew</b></summary>
-<br>
-<p align="center">
-  A coffee shop web page with a clean and simple design.<br><br>
-  <b>Stack:</b> <code>HTML</code> <code>CSS</code> <code>JavaScript</code><br>
-  <b>Status:</b> Completed
-</p>
-</details>
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <b>Personal Portfolio</b><br>
+      <sub>Developer portfolio showcasing my work and skills.</sub><br><br>
+      <code>React</code> <code>Vite</code> <code>Tailwind</code><br><br>
+      <img src="https://img.shields.io/badge/Status-Deployed-0369a1?style=flat-square" alt="Deployed"><br><br>
+      <a href="https://ggyaaaan.vercel.app">View live</a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <b>Timeless Brew</b><br>
+      <sub>Coffee shop web page with a clean and simple design.</sub><br><br>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code><br><br>
+      <img src="https://img.shields.io/badge/Status-Completed-334155?style=flat-square" alt="Completed">
+    </td>
+  </tr>
+</table>
 
-<!-- GITHUB ACTIVITY -->
-<h2 align="center" id="activity">GitHub Activity</h2>
+<!-- ACTIVITY -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./divider-light.svg">
+  <img alt="" src="./divider-light.svg" width="100%">
+</picture>
+
+<h3 align="center" id="activity">GitHub Activity</h3>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Markgian06&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&card_width=420">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Markgian06&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0369a1&icon_color=0369a1&text_color=1e293b&card_width=420">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Markgian06&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&card_width=420" width="420">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Markgian06&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0369a1&icon_color=0369a1&text_color=1e293b&card_width=420" width="420">
   </picture>
 </p>
 
@@ -141,7 +196,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Markgian06&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8&border=0369a1">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Markgian06&background=ffffff&stroke=0369a1&ring=0369a1&fire=0369a1&currStreakLabel=0369a1&sideLabels=1e293b&currStreakNum=1e293b&sideNums=1e293b&dates=475569&border=bae6fd">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Markgian06&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8&border=0369a1" width="420">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Markgian06&background=ffffff&stroke=0369a1&ring=0369a1&fire=0369a1&currStreakLabel=0369a1&sideLabels=1e293b&currStreakNum=1e293b&sideNums=1e293b&dates=475569&border=bae6fd" width="420">
   </picture>
 </p>
 
@@ -151,27 +206,35 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Markgian06&bg_color=0f172a&color=38bdf8&line=0369a1&point=ffffff&area=true&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Markgian06&bg_color=ffffff&color=0369a1&line=0369a1&point=0f172a&area=true&hide_border=true">
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Markgian06&bg_color=0f172a&color=38bdf8&line=0369a1&point=ffffff&area=true&hide_border=true" width="100%">
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Markgian06&bg_color=ffffff&color=0369a1&line=0369a1&point=0f172a&area=true&hide_border=true" width="100%">
 </picture>
 </details>
 
 <!-- CONTACT -->
-<h2 align="center" id="contact">Contact</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./divider-light.svg">
+  <img alt="" src="./divider-light.svg" width="100%">
+</picture>
+
+<h3 align="center" id="contact">Contact</h3>
 
 <p align="center">
   Open to collaboration, internships, and professional networking.
 </p>
 
 <p align="center">
-  <a href="mailto:abejero.markgian@dfcamclp.edu.ph">Email</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/mark-gian-abejero-a69777298">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://ggyaaaan.vercel.app">Portfolio</a>
+  <a href="mailto:abejero.markgian@dfcamclp.edu.ph"><img src="https://img.shields.io/badge/Send_an_Email-0369a1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=334155" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mark-gian-abejero-a69777298"><img src="https://img.shields.io/badge/LinkedIn-0369a1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=334155" alt="LinkedIn"></a>
+  <a href="https://ggyaaaan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0369a1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=334155" alt="Portfolio"></a>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0369a1,100:0f172a&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,50:7dd3fc,100:e0f2fe&height=100&section=footer">
-  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0369a1,100:0f172a&height=100&section=footer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./divider-light.svg">
+  <img alt="" src="./divider-light.svg" width="100%">
 </picture>
+
+<sub>Thank you for visiting my profile.</sub>
 
 </div>
