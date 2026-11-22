@@ -15,10 +15,10 @@
 </picture>
 
 <p align="center">
-  <a href="mailto:abejero.markgian@dfcamclp.edu.ph"><img src="https://img.shields.io/badge/Email-0369a1?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/mark-gian-abejero-a69777298"><img src="https://img.shields.io/badge/LinkedIn-0369a1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://ggyaaaan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0369a1?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <img src="https://img.shields.io/github/followers/Markgian06?style=flat-square&color=334155" alt="Followers">
+  <a href="mailto:abejero.markgian@dfcamclp.edu.ph" title="Send me an email"><img src="https://img.shields.io/badge/Email-0369a1?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mark-gian-abejero-a69777298" title="Connect on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0369a1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://ggyaaaan.vercel.app" title="Open my portfolio"><img src="https://img.shields.io/badge/Portfolio-0369a1?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/Markgian06?tab=followers" title="See my followers"><img src="https://img.shields.io/github/followers/Markgian06?style=flat-square&color=334155" alt="Followers"></a>
   <img src="https://komarev.com/ghpvc/?username=Markgian06&color=334155&style=flat-square&label=VIEWS" alt="Profile Views">
 </p>
 
@@ -30,7 +30,7 @@
   <a href="#contact">Contact</a>
 </p>
 
-<sub>Tip: click any section title below to collapse or expand it.</sub>
+<sub>Click any title, badge, or card below to expand, collapse, or open it.</sub>
 
 <!-- ============ ABOUT ============ -->
 <picture>
@@ -50,7 +50,7 @@
   with simple, easy-to-use interfaces.
 </p>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center" valign="top" width="33%"><b>Focus</b><br><sub>Web Development<br>Software Engineering</sub></td>
     <td align="center" valign="top" width="33%"><b>Learning</b><br><sub>Data Analytics<br>SQL · Python</sub></td>
@@ -59,7 +59,7 @@
 </table>
 
 <details>
-<summary><b>Currently focused on</b></summary>
+<summary><b>What am I learning right now?</b></summary>
 <br>
 <p align="center">
   Strengthening object-oriented programming in C++ and Java<br>
@@ -69,9 +69,28 @@
 </details>
 
 <details>
+<summary><b>What is my goal?</b></summary>
+<br>
+<p align="center">
+  To become a <b>Data Analyst</b>: turning raw data into clear insights<br>
+  using strong database design, SQL, and analytics tools<br>
+  to help others make better decisions.
+</p>
+</details>
+
+<details>
+<summary><b>What am I looking for?</b></summary>
+<br>
+<p align="center">
+  Collaboration, internships, and professional networking.<br>
+  <a href="#contact">Jump to contact</a>
+</p>
+</details>
+
+<details>
 <summary><b>Roadmap</b></summary>
 <br>
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <th align="center">Status</th>
     <th align="center">Milestone</th>
@@ -108,52 +127,59 @@
 <details open id="skills">
 <summary><b>SKILLS</b></summary>
 <br>
+<sub>Click a badge to open its official site.</sub>
 
-<p align="center">
-  <b>Programming Languages</b><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,java,cpp,py&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,java,cpp,py&theme=light">
-    <img alt="HTML, CSS, JavaScript, Java, C++, Python" src="https://skillicons.dev/icons?i=html,css,js,java,cpp,py&theme=light">
-  </picture>
-</p>
-
-<p align="center">
-  <b>Frameworks &amp; Libraries</b><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,tailwind&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,tailwind&theme=light">
-    <img alt="React, Tailwind CSS" src="https://skillicons.dev/icons?i=react,tailwind&theme=light">
-  </picture>
-</p>
-
-<p align="center">
-  <b>Database &amp; Cloud</b><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,firebase&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,firebase&theme=light">
-    <img alt="MySQL, Firebase" src="https://skillicons.dev/icons?i=mysql,firebase&theme=light">
-  </picture>
-</p>
-
-<p align="center">
-  <b>Tools &amp; Deployment</b><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,vscode,vercel&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,vscode,vercel&theme=light">
-    <img alt="Git, VS Code, Vercel" src="https://skillicons.dev/icons?i=git,vscode,vercel&theme=light">
-  </picture>
-</p>
-
-<details>
-<summary><b>Data analytics path</b></summary>
+<details open>
+<summary><b>Programming Languages</b></summary>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-334155?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Excel-334155?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Power_BI-334155?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI">
-  <img src="https://img.shields.io/badge/Tableau-334155?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
+  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="https://dev.java" title="Java"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"></a>
+  <a href="https://isocpp.org" title="C++"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"></a>
+  <a href="https://www.python.org" title="Python"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
+</p>
+</details>
+
+<details open>
+<summary><b>Frameworks &amp; Libraries</b></summary>
+<br>
+<p align="center">
+  <a href="https://react.dev" title="React"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"></a>
+  <a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS"></a>
+  <a href="https://vite.dev" title="Vite"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"></a>
+</p>
+</details>
+
+<details open>
+<summary><b>Database &amp; Cloud</b></summary>
+<br>
+<p align="center">
+  <a href="https://www.mysql.com" title="MySQL"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"></a>
+  <a href="https://firebase.google.com" title="Firebase"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"></a>
+</p>
+</details>
+
+<details open>
+<summary><b>Tools &amp; Deployment</b></summary>
+<br>
+<p align="center">
+  <a href="https://git-scm.com" title="Git"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"></a>
+  <a href="https://code.visualstudio.com" title="VS Code"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"></a>
+  <a href="https://vercel.com" title="Vercel"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"></a>
+</p>
+</details>
+
+<details>
+<summary><b>Data analytics path (learning)</b></summary>
+<br>
+<p align="center">
+  <a href="https://www.python.org" title="Python"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://www.w3schools.com/sql/" title="SQL"><img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"></a>
+  <a href="https://www.microsoft.com/microsoft-365/excel" title="Excel"><img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"></a>
+  <a href="https://powerbi.microsoft.com" title="Power BI"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"></a>
+  <a href="https://www.tableau.com" title="Tableau"><img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"></a>
 </p>
 </details>
 
@@ -171,20 +197,27 @@
 <summary><b>PROJECTS</b></summary>
 <br>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
       <b>Personal Portfolio</b><br>
       <sub>Developer portfolio showcasing my work and skills.</sub><br><br>
-      <code>React</code> <code>Vite</code> <code>Tailwind</code><br><br>
       <img src="https://img.shields.io/badge/Status-Deployed-0369a1?style=flat-square" alt="Deployed"><br><br>
-      <a href="https://ggyaaaan.vercel.app">View live</a>
+      <a href="https://ggyaaaan.vercel.app">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/Markgian06/PORTFOLIO">Source code</a>
+      <details>
+        <summary><sub><b>Tech stack</b></sub></summary>
+        <code>React</code> <code>Vite</code> <code>Tailwind CSS</code>
+      </details>
     </td>
     <td align="center" valign="top" width="50%">
       <b>Timeless Brew</b><br>
       <sub>Coffee shop web page with a clean and simple design.</sub><br><br>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code><br><br>
-      <img src="https://img.shields.io/badge/Status-Completed-334155?style=flat-square" alt="Completed">
+      <img src="https://img.shields.io/badge/Status-Completed-334155?style=flat-square" alt="Completed"><br><br>
+      <sub>Front-end project</sub>
+      <details>
+        <summary><sub><b>Tech stack</b></sub></summary>
+        <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+      </details>
     </td>
   </tr>
 </table>
@@ -206,11 +239,13 @@
 <details open>
 <summary><b>Overview</b></summary>
 <br>
+<a href="https://github.com/Markgian06?tab=repositories" title="Open my repositories">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Markgian06&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&card_width=420">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Markgian06&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0369a1&icon_color=0369a1&text_color=1e293b&card_width=420">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Markgian06&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0369a1&icon_color=0369a1&text_color=1e293b&card_width=420" width="420">
 </picture>
+</a>
 </details>
 
 <details open>
@@ -262,10 +297,21 @@
 </p>
 
 <p align="center">
-  <a href="mailto:abejero.markgian@dfcamclp.edu.ph"><img src="https://img.shields.io/badge/Send_an_Email-0369a1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=334155" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/mark-gian-abejero-a69777298"><img src="https://img.shields.io/badge/LinkedIn-0369a1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=334155" alt="LinkedIn"></a>
-  <a href="https://ggyaaaan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0369a1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=334155" alt="Portfolio"></a>
+  <a href="mailto:abejero.markgian@dfcamclp.edu.ph" title="Send an email"><img src="https://img.shields.io/badge/Send_an_Email-0369a1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=334155" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mark-gian-abejero-a69777298" title="Connect on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0369a1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=334155" alt="LinkedIn"></a>
+  <a href="https://ggyaaaan.vercel.app" title="Open my portfolio"><img src="https://img.shields.io/badge/Portfolio-0369a1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=334155" alt="Portfolio"></a>
 </p>
+
+<details>
+<summary><b>Quick message</b></summary>
+<br>
+<p align="center">
+  <sub>Opens your email app with the subject already filled in.</sub><br><br>
+  <a href="mailto:abejero.markgian@dfcamclp.edu.ph?subject=Collaboration%20Inquiry"><img src="https://img.shields.io/badge/Collaboration-334155?style=flat-square&logo=gmail&logoColor=white" alt="Collaboration inquiry"></a>
+  <a href="mailto:abejero.markgian@dfcamclp.edu.ph?subject=Internship%20Opportunity"><img src="https://img.shields.io/badge/Internship-334155?style=flat-square&logo=gmail&logoColor=white" alt="Internship opportunity"></a>
+  <a href="mailto:abejero.markgian@dfcamclp.edu.ph?subject=Hello%20Mark"><img src="https://img.shields.io/badge/Say_Hello-334155?style=flat-square&logo=gmail&logoColor=white" alt="Say hello"></a>
+</p>
+</details>
 
 <sub><a href="#top">Back to top</a></sub>
 </details>
@@ -276,6 +322,9 @@
   <img alt="" src="./divider-light.svg" width="100%">
 </picture>
 
-<sub>Thank you for visiting my profile.</sub>
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/Markgian06/Markgian06?style=flat-square&label=Profile%20updated&color=334155" alt="Profile last updated"><br>
+  <sub>Thank you for visiting my profile.</sub>
+</p>
 
 </div>
